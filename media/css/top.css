@@ -1,0 +1,190 @@
+
+/************ content part **************/
+
+
+#toppage_content{
+	width:320px;
+	position: relative;
+	/*top:70px*/;
+	
+}
+
+.commander_avatar{
+	width:80px;
+	height: 100px;
+	position:relative;
+	float:left;
+	background: url(../img/card/50/guide_100.jpg) no-repeat;
+	background-size:80px 100px;
+
+}
+#news_icon_bg{
+	width:80px;
+	height: 40px;
+	position: absolute;
+	top:60px;
+	background-color: black;
+	opacity: 0.6;
+}
+/*
+.news_icon.on{
+	width:80px;
+	height: 36px;
+	position: absolute;
+	top:60px;
+	background: url('../img/common/icon/news_icon_on.png') no-repeat center;
+}
+*/
+.news_icon{
+	width:80px;
+	height: 36px;
+	position: absolute;
+	top:60px;
+	background: url('../img/common/icon/news_icon_on.png') no-repeat center;
+}
+
+/*
+#commander_guide_bg{
+	width:46px;
+	height: 43px;
+	position: absolute;
+	top:7px;
+	right:0px;
+	background: url(../img/common/arrow/arrow_bigs.png) no-repeat right;
+	background-size:46px 43px;
+
+}
+*/
+.note_top{
+	position:relative;
+	z-index:99;
+	}
+#message1{
+width: 230px;
+height: 58px;
+padding-top: 2px;
+padding-left: 10px;
+float: left;
+}
+
+#ad_banner{
+width: 240px;
+height: 40px;
+position: relative;
+float: left;
+background: #A6A6A6;
+}
+#ad_banner #line{
+	
+	position:absolute;
+	top:12px;
+	width:240px;
+
+	height:7px;
+	background:#9f0039;
+	
+}
+#ad_id{
+	position: relative;
+	width:40px;
+	height: 40px;
+	margin-left: 5px;
+	color: black;
+	color:#0000CC;
+
+}
+
+
+#ad_title{
+	width:150px;
+	height: 20px;
+	position: relative;
+	top:-20px;
+	left:0px;
+	padding:0 5px 0 5px;
+	background:#A6A6A6;
+}
+#ad_content{
+	color: black;
+	width: 170px;
+	height: 20px;
+	position: relative;
+	top:-25px;
+	left:54px;
+}
+
+#team_name_bg{
+	float:left;
+	width:320px;
+	height: 35px;
+	left:0px;
+
+}
+#arrow_small{
+	position: relative;
+	float:right;
+	top:90px;
+	background: url('../img/common/arrow/arrow_small.png') no-repeat right;
+}
+
+
+#toppage_content .weapon_space{
+	position: relative;
+	top: 47px;
+	left: 10px;
+}
+#groupBtn{
+	position:relative;
+	float:left;
+	width:320px;
+	height: 160px;
+}
+#lesson_btn img{
+	width:111px;
+	height:62px;
+	position: absolute;
+	top:11px;
+	left:28px;
+	overflow:inherit;
+	}
+#match_btn img{
+	width:115px;
+	height: 54px;
+	position: absolute;
+	top:11px;
+	left:177px;
+}
+#activity_btn img{
+	width:126px;
+	height: 56px;
+	position: absolute;
+	top:54px;
+	left:96px;
+}
+#fusion_btn img{
+	
+	width:124px;
+	height: 61px;
+	position: absolute;
+	top:87px;
+	left:28px;
+
+}
+#summon_btn img{
+	width:111px;
+	height:62px;
+	position: absolute;
+	top:87px;
+	left:183px;
+}
+.bg_send{
+	top: 9px;
+}
+/*-campaign-*/
+.banner_top_campaing{
+	float:left;
+	width:320px;
+	height:100px;
+	background:url(../img/common/banner/banner_3.jpg) no-repeat;
+	background-size:320px 100px;
+	}
